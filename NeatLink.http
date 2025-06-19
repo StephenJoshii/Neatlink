@@ -1,4 +1,4 @@
-@NeatLink_HostAddress = http://localhost:5027
+@NeatLink_HostAddress = https://localhost:5027
 
 GET {{NeatLink_HostAddress}}/weatherforecast/
 Accept: application/json
